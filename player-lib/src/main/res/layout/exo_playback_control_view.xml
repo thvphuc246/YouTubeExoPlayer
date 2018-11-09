@@ -24,7 +24,6 @@
 
     <ImageView
         android:contentDescription="@string/logo"
-        android:src="@drawable/google_logo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
